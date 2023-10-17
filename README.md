@@ -8,3 +8,4 @@ An update from remote.
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
+Create a new branch and push it to GitHub
